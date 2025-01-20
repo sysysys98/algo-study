@@ -36,8 +36,8 @@
       <td align="center"><img src="" width="130px;" alt=""/><br /></td>
     </tr>
     <tr>
-    <td align="center"><a href="https://github.com/whtndls"><b>박승연</b></a><br /></td>
-    <td align="center"><a href="https://github.com/dojin8351"><b>권주현</b></a><br /></td>
-    <td align="center"><a href="https://github.com/dbwjdvva"><b>변가원</b></a><br /></td>
+    <td align="center"><a href="https://github.com/sysysys98"><b>박승연</b></a><br /></td>
+    <td align="center"><a href="https://github.com/##"><b>권주현</b></a><br /></td>
+    <td align="center"><a href="https://github.com/##"><b>변가원</b></a><br /></td>
   </tr>
 </table></br>

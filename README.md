@@ -37,7 +37,7 @@
     </tr>
     <tr>
     <td align="center"><a href="https://github.com/sysysys98"><b>박승연</b></a><br /></td>
-    <td align="center"><a href="https://github.com/##"><b>권주현</b></a><br /></td>
-    <td align="center"><a href="https://github.com/##"><b>변가원</b></a><br /></td>
+    <td align="center"><a href="https://github.com/joohyun0913"><b>권주현</b></a><br /></td>
+    <td align="center"><a href="https://github.com/dnjsrk"><b>변가원</b></a><br /></td>
   </tr>
 </table></br>

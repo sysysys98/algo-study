@@ -9,8 +9,8 @@ public class BOJ2839_설탕배달 {
 		
 		int n = Integer.parseInt(br.readLine());
 		
-		int five = n/5+1;
-		int three = n/3+1;
+		int five = n/5;
+		int three = n/3;
 		int ans = Integer.MAX_VALUE;
 		boolean find = false;
 		
